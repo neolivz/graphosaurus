@@ -14,7 +14,7 @@
   "homepage": "https://github.com/frewsxcv/graphosaurus",
   "dependencies": {
     "nonew": "1.0.0",
-    "three": "~0.71.0",
+    "three": "~0.125.0",
     "three.trackball": "0.0.1",
     "three-buffergeometry-sort": "1.1.0"
   },
